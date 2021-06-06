@@ -12,9 +12,10 @@ class tatti:
         s = self.a*self.b
         print(s)
 
-z = tatti(10,15)
+z = tatti(100,15)
 
 z.mul()
 z.sum()
 z.sub()
+
 
